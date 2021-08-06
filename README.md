@@ -10,3 +10,6 @@ In both cases, but especially for the classification problem, I have explored th
 - Optimize hyperparameters using grid/random search and cross-validation
 - Implement CNN for classification task
 - Visualize weight histograms, activation profiles and receptive fields
+
+## Report
+A detailed report is present in the nn_homework_01.pdf file
